@@ -1,0 +1,11 @@
+const gallery = document.getElementById("publicGallery");
+
+Object.keys(localStorage).forEach(key => {
+  if (key.startsWith("images_")) {
+    JSON.parse(localStorage.getItem(key)).forEach(img => {
+      const image = document.createElement("img");
+      image.src = img;
+      gallery.appendChild(image);
+    });
+  }
+});

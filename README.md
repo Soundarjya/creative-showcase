@@ -24,5 +24,4 @@ Open index.html in any browser
 calm-rabanadas-a694ef.netlify.app
 
 ## GitHub Repository
-
-
+https://soundarjya.github.io/creative-showcase/

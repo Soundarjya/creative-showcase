@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Creative Showcase</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Creative Showcase</h1>
+  <div>
+    <a href="login.html">Login</a>
+    <a href="signup.html">Sign Up</a>
+  </div>
+</header>
+
+<h2>Explore Memories & Art</h2>
+
+<div class="gallery" id="publicGallery"></div>
+
+<script src="js/gallery.js"></script>
+</body>
+</html>

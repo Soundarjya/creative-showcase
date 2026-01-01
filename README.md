@@ -21,7 +21,7 @@ A web application for artists to upload and showcase digital artwork or memories
 Open index.html in any browser
 
 ## Live Demo
-calm-rabanadas-a694ef.netlify.app
+https://calm-rabanadas-a694ef.netlify.app/
 
 ## GitHub Repository
 https://soundarjya.github.io/creative-showcase/
